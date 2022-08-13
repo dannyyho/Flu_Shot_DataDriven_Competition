@@ -2,13 +2,20 @@
 Predicting H1N1 and Seasonal Flu Vaccines using Machine Learning Techniques.
 
 What are we trying to predict?
+
 The likelihood of a person being vaccinated against H1N1 and seasonal flu.
+
 DrivenData's vaccine challenge is a Multi-label classification machine learning problem.
 
 **Data Preprocessing**
+
+
 -Mode Imputation for all binary features and two ordinal features h1n1_concern & h1n1_knowledge
+
 -Mean Imputation for rest of the ordinal features 
+
 -Replace blanks with “None” for employment_status , employment_industry & employment_occupation 
+
 -Health insurance has been ignored in the model due to a vast amount of missing data
 
 **Feature Engineering**
