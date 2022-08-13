@@ -15,9 +15,13 @@ DrivenData's vaccine challenge is a Multi-label classification machine learning 
 
 _Interaction features_
 -Average opinion columns for both vaccines
+
 -Sum, average etc. of 7 behavioral columns
+
 -Average values for various columns based on age, race, etc
+
 -Average behavioral features based on education groups
+
 -Average of h1n1 concern and knowledge based on income
 
 _Encoding_
