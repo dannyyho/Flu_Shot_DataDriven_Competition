@@ -17,7 +17,6 @@ DrivenData's vaccine challenge is a Multi-label classification machine learning 
 ## Feature Engineering
 
 
-
 **Interaction features**
 
 - Average opinion columns for both vaccines  
