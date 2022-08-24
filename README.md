@@ -1,6 +1,7 @@
 # Flu_Shot_DataDriven_Competition
 Predicting H1N1 and Seasonal Flu Vaccines using Machine Learning Techniques.
 
+
 What are we trying to predict?
 
 The likelihood of a person being vaccinated against H1N1 and seasonal flu. 
